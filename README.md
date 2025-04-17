@@ -18,7 +18,4 @@ Aspiring front-end developer and machine learning enthusiast. Proficient in Pyth
 
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
