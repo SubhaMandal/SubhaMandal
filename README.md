@@ -15,4 +15,10 @@ Aspiring front-end developer and machine learning enthusiast. Proficient in Pyth
 ---
 [![](https://visitcount.itsvg.in/api?id=SubhaMandal&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
