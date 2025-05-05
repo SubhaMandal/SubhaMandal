@@ -14,7 +14,7 @@ Aspiring front-end developer and machine learning enthusiast. Proficient in Pyth
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhaMandal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/SubhaMandal/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=<SubhaMandal>&color=blue)
 
 
 
