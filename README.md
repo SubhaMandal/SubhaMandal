@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring front-end developer and machine learning enthusiast. Proficient in Python, JavaScript, and Various front-end technologies.
+Aspiring front-end developer and machine learning enthusiast. Proficient in Python, JavaScript, and Various front-end and back-end technologies.
 
 
 ## 🌐 Socials:
