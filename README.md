@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Computer Engineering graduate, specialised in AI and ML from St. Mary’s Technical Campus, Kolkata, under Maulana Abul Kalam Azad University of Technology, West Bengal. Before that, I earned a Diploma in Computer Science and Technology from IMPS Polytechnic College, Jalpaiguri.
 I have hands-on experience in web development using HTML5, CSS3, JavaScript, Node.js, and SQL for back-end work, and I am learning front-end frameworks. I also have a basic understanding of machine learning and strong Python fundamentals from my engineering coursework.
-To grow my skills, I have completed several Coursera and Udemy courses and continue learning new technologies. I have built projects like a real estate price prediction model with machine learning and various web applications, all available on my GitHub profile.
+I have completed several Coursera and Udemy courses to grow my skills and continue learning new technologies. I have built projects like a real estate price prediction model with machine learning and various web applications, all available on my GitHub profile.
 I aim to become a Full-Stack Engineer and Data Scientist working for a forward-thinking company. I speak Bengali (native), English (professional), and Hindi (full professional). I am hardworking, curious, and excited to learn more every day.
 
 
